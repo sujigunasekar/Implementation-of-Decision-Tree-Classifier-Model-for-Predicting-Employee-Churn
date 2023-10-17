@@ -51,7 +51,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ### Initial data set:
 ![272784342-4fdab09e-a67b-45ba-b6ea-1430530c1f44](https://github.com/sujigunasekar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119559822/43355d0c-ff53-40eb-977c-b43d99c970a7)
 ### Data info:
-![272784393-40bbf9f1-0b4b-4554-9398-67eb9f3e3a6c](https://github.com/sujigunasekar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119559822/b63e7145-e768-4e29-ae31-6882510c4896)
+![272784411-130e597d-f5e9-42fa-96e7-5bcfb522f28a](https://github.com/sujigunasekar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119559822/0700ae07-0e2e-49cb-90f0-43974569bfe0)
 ### Optimization of null values:
 ![272784393-40bbf9f1-0b4b-4554-9398-67eb9f3e3a6c](https://github.com/sujigunasekar/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119559822/21d716a4-8cbb-4b8f-a2bb-9110ac427b39)
 ### Assignment of x value:
